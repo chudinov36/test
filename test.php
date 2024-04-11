@@ -1,0 +1,7 @@
+<?php
+
+//define('USER',"Константа",false);
+
+$x=5;
+$y=5;
+print $x+$y;
